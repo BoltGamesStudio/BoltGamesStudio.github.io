@@ -12,9 +12,10 @@ body {
     color: #ffffff;
 }
 #main {
+    position: relative;
     display: flex;
     
-    width: 80%;
+    width: 75%;
     height: auto;
     margin: 0 auto;
     background: #718093;
@@ -26,6 +27,8 @@ body {
 }
 
 #main h1 {
+    position: relative;
+    top: -10px;
     font-size: 30px;
     color: #ffffff;
     text-align: center;
@@ -34,7 +37,10 @@ body {
 }
 
 #main q1 {
-    font-size: 15px;
+    position: relative;
+    top: -10px;
+
+    font-size: 12px;
     color: #ffffff;
     text-align: center;
 }
