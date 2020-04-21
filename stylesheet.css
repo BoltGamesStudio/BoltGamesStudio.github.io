@@ -46,6 +46,40 @@ body {
     padding: 0 5px;
 }
 
+.gallery {
+    display: flex;
+
+    background: grey;
+
+    width: 50%;
+    height: auto;
+    margin: auto;
+
+    justify-content: space-around;
+    align-items: center;
+    vertical-align: middle;
+}
+
+.gallery a {
+    border: solid white 2px;
+
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+    vertical-align: middle;
+}
+
+.gallery a h1 {
+    font-size: 25px;
+    text-align: center;
+}
+
+img {
+    width: 100%;
+    height: auto;
+}
+
+
 @media only screen and (min-width: 768px)
 {
     #main {
