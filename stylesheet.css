@@ -12,7 +12,7 @@ body {
     width: 60%;
     margin: auto;
     background: #718093;
-    border-radius: 20px;
+    border-radius: 30px;
 }
 
 #main h1 {
@@ -20,7 +20,8 @@ body {
     color: white;
     text-align: center;
 }
-#main text {
+
+#main q{
     font-size: 20px;
     color: white;
     text-align: center;
