@@ -13,12 +13,13 @@ body {
 }
 
 #main {
-    width: 70%;
-    height: auto;
+    width: 40%;
+    height: 250px;
     margin: auto;
     background: #718093;
     border-radius: 30px;
     text-align: center;
+    vertical-align: middle;
 }
 
 #main h1 {
