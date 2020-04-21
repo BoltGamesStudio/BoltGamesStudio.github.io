@@ -66,11 +66,6 @@ body {
     border: solid white 2px;
     border-radius: 10px;
 
-    flex-direction: column;
-    justify-content: space-around;
-    align-items: center;
-    vertical-align: middle;
-
     color: white;
     text-decoration: none;
 
