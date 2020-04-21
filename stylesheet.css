@@ -79,9 +79,9 @@ body {
 }
 
 img {
+    display: block;
     width: 80%;
     height: auto;
-    text-align: center;
     margin: 10px auto;
 }
 
