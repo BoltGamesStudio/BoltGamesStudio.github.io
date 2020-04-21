@@ -1,0 +1,22 @@
+body {
+    background: #2f3640;
+    width: 100%;
+    margin: auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#main {
+    width: 60%;
+    margin: auto;
+    background: #353b48;
+    border-radius: 20px;
+}
+
+#main h1 {
+    font-size: 40px;
+}
+#main text {
+    font-size: 20px;
+}
