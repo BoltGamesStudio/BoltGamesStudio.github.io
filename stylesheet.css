@@ -8,7 +8,7 @@ body {
     justify-content: flex-start;
     flex-direction: column;
     
-    transform: translateY(10%);
+    transform: translateY(25%);
 
     font-family: 'Concert One', cursive;
     color: #ffffff;
