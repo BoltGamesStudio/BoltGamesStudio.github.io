@@ -8,6 +8,8 @@ body {
     justify-content: flex-start;
     flex-direction: column;
 
+    transform: translateY(0.5vh);
+
     font-family: 'Concert One', cursive;
     color: #ffffff;
 }
@@ -26,8 +28,6 @@ body {
     align-items: center;    
 
     margin-bottom: 25px;
-
-    transform: translateY(50%);
 }
 
 #main h1 {
