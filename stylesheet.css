@@ -13,19 +13,25 @@ body {
 }
 
 #main {
-    width: 60%;
-    height: 250px;
+    display: flex;
+    
+    width: 50%;
+    height: 200px;
     margin: 0 auto;
     background: #718093;
-    border-radius: 30px;
-    text-align: center;
-    vertical-align: middle;
+    border-radius: 20px;
+    
+    flex-direction: column;
+    justfy-content: center;
+    align-items: center;    
 }
 
 #main h1 {
     font-size: 50px;
     color: #ffffff;
     text-align: center;
+    
+    text-shadow: 5px 5px 15px rgba(0,0,0,0.8);
 }
 
 #main q1 {
