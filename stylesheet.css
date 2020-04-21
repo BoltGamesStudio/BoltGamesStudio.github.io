@@ -1,4 +1,7 @@
 body {
+    display: flex;
+    flex-direction: column;
+
     background: #353b48;
     width: 100%;
     height: 100vh;
@@ -55,6 +58,8 @@ body {
     height: auto;
     margin: auto;
 
+    padding: 10px;
+
     justify-content: space-around;
     align-items: center;
     vertical-align: middle;
@@ -67,6 +72,9 @@ body {
     justify-content: space-around;
     align-items: center;
     vertical-align: middle;
+
+    color: white;
+    text-decoration: none;
 }
 
 .gallery a h1 {
