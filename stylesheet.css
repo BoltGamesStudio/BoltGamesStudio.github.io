@@ -57,8 +57,6 @@ body {
     height: auto;
     margin: auto;
 
-    padding: 10px;
-
     justify-content: space-around;
     align-items: center;
     vertical-align: middle;
@@ -74,11 +72,13 @@ body {
 
     color: white;
     text-decoration: none;
+
+    padding: 10px;
 }
 
 .gallery h1 {
     font-size: 25px;
-    text-align: center;
+    text-align: middle;
 }
 
 img {
