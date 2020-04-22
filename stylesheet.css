@@ -55,7 +55,10 @@ body {
     text-align: center;   
 }
 
-.form_class label{
+.form_class q1 {
+    display: block;
+}
+.form_class label {
     padding-top: 10px;
 }
 .form_class q2 {
