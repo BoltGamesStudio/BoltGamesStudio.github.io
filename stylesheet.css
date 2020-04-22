@@ -55,9 +55,8 @@ body {
     text-align: center;   
 }
 
-.form_class q1 {
-    margin-bottom: 10px;
-    line-height: 20px;
+.form_class label{
+    padding-top: 10px;
 }
 .form_class q2 {
     margin-top: 5px;
