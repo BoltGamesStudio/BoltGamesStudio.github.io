@@ -50,6 +50,19 @@ body {
     padding: 0 5px;
 }
 
+.form_class {
+    margin: 20px auto;
+    text-align: center;   
+}
+
+.form_class q1 {
+    margin-bottom: 10px;
+}
+.form_class q2 {
+    margin-top: 5px;
+    font-size: 15px;
+}
+
 .gallery {
     display: flex;
     flex-direction: column;
