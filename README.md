@@ -1,1 +1,1 @@
-# JMGPhactory.github.io
+# BoltGamesStudio.github.io
